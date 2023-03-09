@@ -1,0 +1,2 @@
+co/geisyanne/netflixclone/BuildConfig.java
+ co.geisyanne.netflixclone.BuildConfig
